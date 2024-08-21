@@ -1,9 +1,9 @@
-**Name: Rishi Kothari**
-Company Name: CODETACH IT SOLUTION
-**ID: CT08DS6762**
-**Domain: “FRONTEND WEB DEVELOPMENT"
-Duration: 10th AUG to 10th SEPT
-Mentor: Muzammil**
+**Name: Rishi Kothari**/n
+Company Name: CODETACH IT SOLUTION/n
+**ID: CT08DS6762**/n
+**Domain: “FRONTEND WEB DEVELOPMENT"/n
+Duration: 10th AUG to 10th SEPT/n
+Mentor: Muzammil**/n
 
 **Overview of the Project:**
 
